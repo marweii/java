@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.39-bin">
+    <CLASSES>
+      <root url="jar://D:/JavaLib/mysql-connector-java-5.1.39-bin.jar!/" />
+      <root url="jar://D:/JavaLib/httpcore-4.4.3.jar!/" />
+      <root url="jar://D:/JavaLib/httpclient-4.5.3.jar!/" />
+      <root url="jar://D:/JavaLib/commons-logging-1.2.jar!/" />
+      <root url="jar://D:/JavaLib/gson-2.5.jar!/" />
+      <root url="jar://D:/JavaLib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://D:/JavaLib/json-20170516.jar!/" />
+      <root url="jar://D:/JavaLib/commons-lang3-3.6.jar!/" />
+      <root url="jar://D:/JavaLib/commons-lang-2.6.jar!/" />
+      <root url="jar://D:/JavaLib/commons-net-3.6.jar!/" />
+      <root url="jar://D:/JavaLib/commons-lang3-3.4.jar!/" />
+      <root url="file://D:/JavaLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/JavaLib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/JavaLib" recursive="false" />
+    <jarDirectory url="file://D:/JavaLib" recursive="false" type="SOURCES" />
+  </library>
+</component>
