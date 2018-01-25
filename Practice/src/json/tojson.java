@@ -16,7 +16,7 @@ public class tojson {
         String  json = gson.toJson(map);
         JSONObject obj = new JSONObject();
         obj = JSONObject.fromObject(json);
-        System.out.println(obj.getString("name"));
+        System.out.println(json);
 
     }
 }

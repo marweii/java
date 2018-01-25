@@ -23,31 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="rotateString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/rotateString.java">
+      <file leaf-file-name="dicesSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Challenge/dicesSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="18" column="9" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="substringtest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/substringtest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fizzBuzz.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/fizzBuzz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="24" column="20" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="24" selection-end-column="20" />
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,79 +35,94 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="levelOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/levelOrder.java">
+      <file leaf-file-name="Alphabet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Challenge/Alphabet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="missingString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/missingString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recoverRotatedSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/recoverRotatedSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="28" column="20" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="searchMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/searchMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="625">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findPosition.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/findPosition.java">
+      <file leaf-file-name="kuaisucharu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paixu/kuaisucharu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="50">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="replace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge/replace.java">
+      <file leaf-file-name="xiersuanfa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paixu/xiersuanfa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="72" lean-forward="false" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+            <state relative-caret-position="75">
+              <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/javax/swing/tree/TreeNode.java">
+      <file leaf-file-name="jiandanxuanzepaixu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paixu/jiandanxuanzepaixu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+            <state relative-caret-position="150">
+              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getname.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Autowired/getname.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getabc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Autowired/impl/getabc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Autowired/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tojson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/json/tojson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendGetM.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HttpClient/SendGetM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -139,6 +134,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -159,16 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HttpClient/SendPostM.java" />
-        <option value="$PROJECT_DIR$/src/trim/trimtest.java" />
-        <option value="$PROJECT_DIR$/src/lujing/getlujing.java" />
-        <option value="$PROJECT_DIR$/src/LogTest/LOG.java" />
-        <option value="$PROJECT_DIR$/src/log4j.properties" />
-        <option value="D:/JavaLib/log4j-1.2.17.jar!/org/apache/log4j/Logger.class" />
-        <option value="D:/JavaLib/log4j-1.2.17.jar!/org/apache/log4j/LogManager.class" />
-        <option value="D:/JavaLib/log4j-1.2.17.jar!/org/apache/log4j/spi/LoggerRepository.class" />
-        <option value="D:/JavaLib/log4j-1.2.17.jar!/org/apache/log4j/spi/NOPLoggerRepository.class" />
-        <option value="D:/JavaLib/log4j-1.2.17.jar!/org/apache/log4j/Hierarchy.class" />
         <option value="$PROJECT_DIR$/log.txt" />
         <option value="$PROJECT_DIR$/src/LogTest/Logger4JTest.java" />
         <option value="$PROJECT_DIR$/src/LogTest/log4j.properties" />
@@ -195,12 +181,10 @@
         <option value="$PROJECT_DIR$/src/Challenge/Solution.java" />
         <option value="$PROJECT_DIR$/src/Challenge/trailingZeros.java" />
         <option value="$PROJECT_DIR$/src/Challenge/aplusb.java" />
-        <option value="$PROJECT_DIR$/src/Challenge/Patterntest.java" />
         <option value="$PROJECT_DIR$/src/Challenge/digitCounts.java" />
         <option value="$PROJECT_DIR$/src/Challenge/kthLargestElement.java" />
         <option value="$PROJECT_DIR$/src/Challenge/SortedArray.java" />
         <option value="$PROJECT_DIR$/src/Challenge/testPattern.java" />
-        <option value="$PROJECT_DIR$/src/Challenge/test.java" />
         <option value="$PROJECT_DIR$/src/Challenge/rotateString.java" />
         <option value="$PROJECT_DIR$/src/Challenge/substringtest.java" />
         <option value="$PROJECT_DIR$/src/Challenge/fizzBuzz.java" />
@@ -210,6 +194,18 @@
         <option value="$PROJECT_DIR$/src/Challenge/replace.java" />
         <option value="$PROJECT_DIR$/src/Challenge/searchMatrix.java" />
         <option value="$PROJECT_DIR$/src/Challenge/findPosition.java" />
+        <option value="$PROJECT_DIR$/src/Challenge/Patterntest.java" />
+        <option value="$PROJECT_DIR$/src/Challenge/test.java" />
+        <option value="$PROJECT_DIR$/src/Challenge/dicesSum.java" />
+        <option value="$PROJECT_DIR$/src/Challenge/kuaisucharu.java" />
+        <option value="$PROJECT_DIR$/src/paixu/kuaisucharu.java" />
+        <option value="$PROJECT_DIR$/src/paixu/xiersuanfa.java" />
+        <option value="$PROJECT_DIR$/src/paixu/jiandanxuanzepaixu.java" />
+        <option value="$PROJECT_DIR$/src/Autowired/getname.java" />
+        <option value="$PROJECT_DIR$/src/Autowired/impl/getabc.java" />
+        <option value="$PROJECT_DIR$/src/Autowired/test.java" />
+        <option value="$PROJECT_DIR$/src/json/tojson.java" />
+        <option value="$PROJECT_DIR$/src/json/test1.java" />
       </list>
     </option>
   </component>
@@ -226,9 +222,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -246,8 +242,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,13 +258,21 @@
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,6 +283,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5114943" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -303,7 +306,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.searchMatrix">
+  <component name="RunManager" selected="Application.tojson">
+    <configuration name="Patterntest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="paixu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Challenge.Patterntest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Practice" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -319,14 +341,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="missingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="kuaisucharu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Challenge.*" />
+          <option name="PATTERN" value="paixu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Challenge.missingString" />
+      <option name="MAIN_CLASS_NAME" value="paixu.kuaisucharu" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -338,14 +360,14 @@
       <module name="Practice" />
       <envs />
     </configuration>
-    <configuration name="recoverRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Challenge.*" />
+          <option name="PATTERN" value="Autowired.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Challenge.recoverRotatedSortedArray" />
+      <option name="MAIN_CLASS_NAME" value="Autowired.test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -357,14 +379,14 @@
       <module name="Practice" />
       <envs />
     </configuration>
-    <configuration name="replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Challenge.*" />
+          <option name="PATTERN" value="paixu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Challenge.replace" />
+      <option name="MAIN_CLASS_NAME" value="Challenge.test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -376,33 +398,14 @@
       <module name="Practice" />
       <envs />
     </configuration>
-    <configuration name="searchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="tojson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Challenge.*" />
+          <option name="PATTERN" value="json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Challenge.searchMatrix" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Practice" />
-      <envs />
-    </configuration>
-    <configuration name="substringtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Challenge.substringtest" />
+      <option name="MAIN_CLASS_NAME" value="json.tojson" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -415,19 +418,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.substringtest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.missingString" />
-      <item index="2" class="java.lang.String" itemvalue="Application.recoverRotatedSortedArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.searchMatrix" />
-      <item index="4" class="java.lang.String" itemvalue="Application.replace" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Patterntest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.kuaisucharu" />
+      <item index="3" class="java.lang.String" itemvalue="Application.test (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.tojson" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.searchMatrix" />
-        <item index="1" class="java.lang.String" itemvalue="Application.replace" />
-        <item index="2" class="java.lang.String" itemvalue="Application.recoverRotatedSortedArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.missingString" />
-        <item index="4" class="java.lang.String" itemvalue="Application.substringtest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.tojson" />
+        <item index="1" class="java.lang.String" itemvalue="Application.test (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.kuaisucharu" />
+        <item index="3" class="java.lang.String" itemvalue="Application.test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Patterntest" />
       </list>
     </recent_temporary>
   </component>
@@ -462,11 +465,17 @@
       <workItem from="1516236279472" duration="21312000" />
       <workItem from="1516322863582" duration="6268000" />
       <workItem from="1516331059986" duration="2236000" />
+      <workItem from="1516342355804" duration="6190000" />
+      <workItem from="1516581478011" duration="676000" />
+      <workItem from="1516759102189" duration="2612000" />
+      <workItem from="1516775066171" duration="1160000" />
+      <workItem from="1516842605526" duration="1815000" />
+      <workItem from="1516863837473" duration="183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138105000" />
+    <option name="totallyTimeSpent" value="150741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -479,13 +488,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5205479" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28869566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25869894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -511,7 +520,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="49" />
+      <option name="time" value="50" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -520,83 +529,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/JavaLib/log4j-1.2.17.jar!/org/apache/log4j/Logger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JavaLib/log4j-1.2.17.jar!/org/apache/log4j/LogManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="77" column="40" lean-forward="false" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton/NewSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpClient/SendPostM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpClient/people.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Http/httptest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Http/ApacheHttpClientExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="65" column="53" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpClient/sendMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpClient/SendGetM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LogTest/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -616,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,13 +601,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge/Function.java" />
-    <entry file="file://$PROJECT_DIR$/src/Challenge/Alphabet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11625">
@@ -755,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenge/Patterntest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge/digitCounts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -783,26 +699,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenge/testPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenge/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge/rotateString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="9" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,9 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="24" column="20" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,11 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -848,9 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,9 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="28" column="20" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="72" lean-forward="false" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,14 +759,127 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge/findPosition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenge/testPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenge/Patterntest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenge/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenge/dicesSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenge/Alphabet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paixu/kuaisucharu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paixu/xiersuanfa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paixu/jiandanxuanzepaixu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Autowired/impl/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Autowired/getname.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Autowired/impl/getabc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Autowired/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/json/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/json/tojson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HttpClient/SendGetM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -946,7 +942,6 @@
             <option name="proportions">
               <list>
                 <option value="0.5114943" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

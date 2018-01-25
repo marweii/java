@@ -6,13 +6,11 @@ import java.util.regex.Pattern;
 
 public class Patterntest {
     public static void main(String[] args){
-        String str = "123456789011121314";
-        int temp =0;
-        Pattern pattern =Pattern.compile("([1])");
+        String str = "sadfasdf分解阿斯利康机发，。速度快撒娇的";
+        Pattern pattern =Pattern.compile("([\\u4e00-\\u9fa5]|[\\w]|[\\u3002-\\uff0c])");
         Matcher matcher =pattern.matcher(str);
         while (matcher.find()){
-            temp++;
+           System.out.println(matcher.group());
         }
-        System.out.println(temp);
     }
 }
