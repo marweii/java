@@ -1,5 +1,6 @@
 package HttpClient;
 
+import com.google.gson.Gson;
 import org.apache.http.HttpEntity;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
@@ -10,21 +11,28 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class SendPostM {
-    private static final String POST_URL = "http://localhost:8080/user/name";
+    private static final String POST_URL = "https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=6_T1pgvg_04zJ24035NzNW5TozKgMS6zNaaTJSk4Zrko0F8D7xDCzyi34F7x87BT7Bf4oF5xbXO4aEqdl8h3kNLQ2b6o0vkHlwFGdv1tKUkg6vXqtktYqqdHOsjbQRDHjAIANZD";
+    public static String SendPost() throws IOException {
+        Map map=new LinkedHashMap<String, Object>();
+        map.put("touser","oRil10wokdKh7qnILRE5mENuJFT8");
+        map.put("url","");
+        map.put("template_id","pU-HdFc9OwqdbhNI-Arr2Azgh8Zk-ToQOYSCtSTtaAM");
+        Gson gson = new Gson();
+        String  json = gson.toJson(map);
+        System.out.println(json);
 
-    public static String SendPost(String name) throws IOException {
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost httpPost = new HttpPost(POST_URL);
 
+
         List<NameValuePair> params = new ArrayList<NameValuePair>();
-        params.add(new BasicNameValuePair("name",name));
-        HttpEntity httpEntity = new UrlEncodedFormEntity(params,"UTF-8");
+        params.add(new BasicNameValuePair("touser","oRil10wokdKh7qnILRE5mENuJFT8"));
+        params.add(new BasicNameValuePair("url",""));
+        params.add(new BasicNameValuePair("template_id","pU-HdFc9OwqdbhNI-Arr2Azgh8Zk-ToQOYSCtSTtaAM"));
+        UrlEncodedFormEntity  httpEntity = new UrlEncodedFormEntity(params,"UTF-8");
         httpPost.setEntity(httpEntity);
 
         CloseableHttpResponse response = httpClient.execute(httpPost);
