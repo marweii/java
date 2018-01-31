@@ -13,12 +13,16 @@
       <root url="jar://D:/JavaLib/commons-net-3.6.jar!/" />
       <root url="jar://D:/JavaLib/commons-lang3-3.4.jar!/" />
       <root url="file://D:/JavaLib" />
+      <root url="file://D:/JavaLib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://D:/JavaLib" />
+      <root url="file://D:/JavaLib" />
     </SOURCES>
     <jarDirectory url="file://D:/JavaLib" recursive="false" />
+    <jarDirectory url="file://D:/JavaLib" recursive="false" />
+    <jarDirectory url="file://D:/JavaLib" recursive="false" type="SOURCES" />
     <jarDirectory url="file://D:/JavaLib" recursive="false" type="SOURCES" />
   </library>
 </component>
