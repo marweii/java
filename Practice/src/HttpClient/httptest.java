@@ -24,8 +24,8 @@ import java.util.List;
 public class httptest {
     private static final String URLPOST = "http://localhost:8080/compost";
     public static void main(String[] args) throws IOException {
-        //Closetest();
-        Urltest();
+        Closetest();
+        //Urltest();
     }
     public static void Closetest() throws IOException {
         CloseableHttpClient client = HttpClients.createDefault();
