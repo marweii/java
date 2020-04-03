@@ -3,3 +3,4 @@ ERROR 2018 01 15 11:34:15,595 [LogTest.Logger4JTest.main(Logger4JTest.java:10)] 
 DEBUG 2018 01 30 14:27:28,235 [LogTest.Logger4JTest.main(Logger4JTest.java:9)]  debug        
 ERROR 2018 01 30 14:27:28,241 [LogTest.Logger4JTest.main(Logger4JTest.java:10)]  error         
 ERROR 2018 01 30 14:27:49,729 [LogTest.Logger4JTest.main(Logger4JTest.java:10)]  error         
+hello
